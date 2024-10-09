@@ -6,7 +6,7 @@ Sou um desenvolvedor fullstack em formação, focado em Python e JavaScript. Atu
 
 - **Python**
 - **JavaScript**
-- **[Outras tecnologias que você usa]**
+- **SqL**
 
 ## 🚀 Objetivos
 
