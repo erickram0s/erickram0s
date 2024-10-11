@@ -1,4 +1,5 @@
 Hello, I’m [Erick] 👋
+
 I’m an aspiring full-stack developer specializing in Python and JavaScript. Currently, I work in data analysis, transforming insights into visualizations that drive strategic decision-making.
 
 💻 Technologies I Work With
@@ -6,6 +7,7 @@ I’m an aspiring full-stack developer specializing in Python and JavaScript. Cu
 Python
 JavaScript
 SQL
+
 🚀 My Goals
 
 Deepen my knowledge in web development and emerging technologies.
