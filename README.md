@@ -5,8 +5,11 @@ I’m an aspiring full-stack developer specializing in Python and JavaScript. Cu
 💻 Technologies I Work With
 
 Python
+
 JavaScript
+
 SQL
+
 
 🚀 My Goals
 
@@ -15,8 +18,11 @@ Contribute to open-source projects.
 Develop innovative and efficient solutions that make an impact.
 📫 Let’s Connect!
 
+
 LinkedIn
+
 Instagram
+
 
 Feel free to explore my profile!
 
