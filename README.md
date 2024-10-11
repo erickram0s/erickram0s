@@ -1,23 +1,20 @@
-# Olá, eu sou [Erick] 👋
+Hello, I’m [Erick] 👋
+I’m an aspiring full-stack developer specializing in Python and JavaScript. Currently, I work in data analysis, transforming insights into visualizations that drive strategic decision-making.
 
-Sou um desenvolvedor fullstack em formação, focado em Python e JavaScript. Atualmente, trabalho na área de dados, onde analiso e visualizo informações para ajudar na tomada de decisões. 
+💻 Technologies I Work With
 
-## 💻 Tecnologias que uso
+Python
+JavaScript
+SQL
+🚀 My Goals
 
-- **Python**
-- **JavaScript**
-- **SqL**
+Deepen my knowledge in web development and emerging technologies.
+Contribute to open-source projects.
+Develop innovative and efficient solutions that make an impact.
+📫 Let’s Connect!
 
-## 🚀 Objetivos
+LinkedIn
+Instagram
 
-- Aprender mais sobre desenvolvimento web e novas tecnologias.
-- Contribuir para projetos open-source.
-- Criar soluções inovadoras e eficientes.
-
-## 📫 Vamos nos conectar!
-
-- [LinkedIn](https://www.linkedin.com/in/erickram0s)
-- [Instagram](https://www.instagram.com/erickram0s)
-
-Sinta-se à vontade para explorar meu perfil!
+Feel free to explore my profile!
 
