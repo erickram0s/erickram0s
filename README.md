@@ -4,7 +4,7 @@ I’m an aspiring full-stack developer specializing in Python and JavaScript. Cu
 
 💻 Technologies I Work With
 
-- Python
+- Pythonn
 - JavaScript
 - SQL
 
