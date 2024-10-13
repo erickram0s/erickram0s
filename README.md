@@ -4,11 +4,9 @@ I’m an aspiring full-stack developer specializing in Python and JavaScript. Cu
 
 💻 Technologies I Work With
 
-Python
-
-JavaScript
-
-SQL
+- Python
+- JavaScript
+- SQL
 
 
 🚀 My Goals
@@ -20,9 +18,8 @@ Develop innovative and efficient solutions that make an impact.
 
 📫 Let’s Connect!
 
-LinkedIn
 
-Instagram
+Instagram : erickram0s
 
 
 Feel free to explore my profile!
