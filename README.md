@@ -7,6 +7,7 @@ I’m an aspiring full-stack developer specializing in Python and JavaScript. Cu
 - Pythonn
 - JavaScript
 - SQL
+- POWER B.I
 
 
 🚀 My Goals
