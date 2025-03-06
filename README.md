@@ -25,4 +25,3 @@ Também sou especialista em **gestão financeira e BPO financeiro**, estruturand
 
 ---
 
-Essa versão mantém sua essência, mas a torna mais impactante e fluida para leitura. O que acha? 🚀
