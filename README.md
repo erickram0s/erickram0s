@@ -2,7 +2,7 @@ Aqui está uma versão aprimorada do seu texto para o GitHub, tornando-o mais ob
 
 ---
 
-# 🚀 Cientista de Dados | BI | Gestão Financeira | Automação  
+#  Cientista de Dados | BI | Gestão Financeira | Automação  
 
 Atuo na interseção entre **dados, tecnologia e finanças**, desenvolvendo soluções estratégicas em **Business Intelligence, Data Analytics e automação de processos** para impulsionar a tomada de decisões e otimizar operações.  
 
@@ -15,11 +15,11 @@ Também sou especialista em **gestão financeira e BPO financeiro**, estruturand
 🎓 **Economia** – UFPR *(previsto para 2026)*  
 
 ## 🔹 Habilidades e Especialidades  
-✅ **Business Intelligence:** Dashboards interativos e relatórios estratégicos *(Power BI, Excel)*  
-✅ **Data Analytics:** Modelagem, análise e tratamento de dados *(Python, SQL)*  
-✅ **Automação:** Otimização de processos *(Power Automate, Python)*  
-✅ **Gestão Financeira:** Estruturação de BPO Financeiro e análise estratégica  
-✅ **Tomada de Decisão:** Aplicação de dados para crescimento sustentável  
+ **Business Intelligence:** Dashboards interativos e relatórios estratégicos *(Power BI, Excel)*  
+ **Data Analytics:** Modelagem, análise e tratamento de dados *(Python, SQL)*  
+ **Automação:** Otimização de processos *(Power Automate, Python)*  
+ **Gestão Financeira:** Estruturação de BPO Financeiro e análise estratégica  
+ **Tomada de Decisão:** Aplicação de dados para crescimento sustentável  
 
 💡 **Missão:** Transformar dados em insights estratégicos e impulsionar resultados financeiros com inovação e tecnologia.  
 
