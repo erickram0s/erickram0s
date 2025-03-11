@@ -1,6 +1,3 @@
-Aqui está uma versão aprimorada do seu texto para o GitHub, tornando-o mais objetivo, dinâmico e profissional:  
-
----
 
 #  Cientista de Dados | BI | Gestão Financeira | Automação  
 
@@ -12,7 +9,6 @@ Também sou especialista em **gestão financeira e BPO financeiro**, estruturand
 
 ## 📚 Formação e Estudos  
 🎓 **Ciências de Dados** – UNINTER *(em andamento)*  
-🎓 **Economia** – UFPR *(previsto para 2026)*  
 
 ## 🔹 Habilidades e Especialidades  
  **Business Intelligence:** Dashboards interativos e relatórios estratégicos *(Power BI, Excel)*  
