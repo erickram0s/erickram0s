@@ -1,45 +1,15 @@
 
 
-# **Erick Fabiano Ramos Correia**  
-### Cientista de Dados | Business Intelligence | Gestão Financeira | Automação | Inteligência Artificial  
+### **Erick Fabiano Ramos Correia** 🚀  
 
-> **"Prosperar não é só crescer financeiramente, é transformar vidas com conhecimento, estratégia e propósito."**  
+👨‍💻 **Data Scientist | Business Intelligence | Financial Management | Automation | AI**  
+📊 **Data & Financial Analyst @Aveiro Negócios**  
+🎓 **Data Science Student**  
+💰 **Managing R$ 140M in assets**  
+🤖 **Passionate about AI, automation, and investments**  
+📈 **Helping businesses and individuals make data-driven decisions**  
 
-Atuo na interseção entre **dados, tecnologia e finanças**, desenvolvendo soluções estratégicas para otimizar processos, apoiar a tomada de decisões e potencializar resultados empresariais. Com experiência em **Business Intelligence, Data Analytics, Inteligência Artificial e automação de processos**, aplico metodologias baseadas em dados para aumentar a eficiência operacional e financeira.  
-
-Atualmente, sou **Cientista de Dados e Analista de Dados na Aveiro Negócios**, onde utilizo **Python, SQL, Power BI e Excel** para criar **dashboards interativos, relatórios analíticos e automações** que contribuem para a escalabilidade e eficiência dos negócios. Além disso, atuo diretamente na **gestão financeira e no BPO financeiro**, estruturando estratégias para maximizar a rentabilidade e **gerenciando carteiras de grandes fortunas, com R$ 140 milhões sob minha tutela atualmente**.  
-
-Sou **operador pleno do Conta Azul**, utilizando a plataforma para gerenciar e automatizar processos financeiros, garantindo maior controle e eficiência nas operações.  
-
-Além da tecnologia, minha grande paixão está no mundo das **finanças e investimentos pessoais**. Acredito que a educação financeira é essencial para construir um futuro sólido, e por isso ajudo pessoas a **entenderem que investir não é um privilégio, mas uma necessidade para conquistar a liberdade financeira**. Meu objetivo é **desmistificar o mercado financeiro** e mostrar que, com conhecimento e estratégia, qualquer pessoa pode prosperar.  
-
-Uso a **tecnologia como aliada**, aplicando **Inteligência Artificial e automação** para aprimorar análises financeiras, otimizar estratégias e desenvolver soluções inteligentes para gestão de investimentos.  
-
----  
-
-## **🎓 Formação Acadêmica e Certificações**  
-- **Bacharelado em Ciências de Dados** – UNINTER (em andamento)  
-- **Preparação para a Certificação CEA (Certificação de Especialista em Investimentos ANBIMA)**  
-- **Planejamento para iniciar a graduação em Administração no próximo ano**  
-- **Intenção de obter a Certificação CFP® (Certified Financial Planner) após a conclusão da graduação atual**  
-
----  
-
-## **💡 Habilidades e Especialidades**  
-- **Business Intelligence:** Desenvolvimento de dashboards interativos e relatórios estratégicos utilizando Power BI e Excel  
-- **Data Analytics:** Modelagem, análise e tratamento de dados com Python e SQL  
-- **Automação de Processos:** Otimização de fluxos operacionais por meio de Python e Power Automate  
-- **Gestão Financeira:** Estruturação de BPO financeiro e análise estratégica de investimentos e negócios  
-- **Investimentos Pessoais:** Assessoria e educação financeira para iniciantes no mercado de investimentos  
-- **Conta Azul:** Operação plena da plataforma para gestão financeira empresarial  
-- **Inteligência Artificial:** Aplicação de IA para aperfeiçoar análises e gerar insights estratégicos  
-
----  
-
-## **📖 Sobre Mim**  
-Sou um entusiasta da tecnologia e das finanças, buscando constantemente formas de **unir essas áreas para criar soluções inovadoras**. Acredito que o conhecimento é a base para qualquer transformação e, por isso, **amo ler livros sobre tecnologia e finanças**, pois vejo na educação contínua um dos principais pilares do crescimento pessoal e profissional.  
-
-Meu propósito é **usar dados para transformar vidas**, ajudando pessoas e empresas a **crescerem com inteligência, estratégia e propósito**.  
+Let's connect and talk about **data, automation, and finance!**
 
 
   ### Socials
