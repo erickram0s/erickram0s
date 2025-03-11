@@ -9,7 +9,7 @@
 🤖 **Passionate about AI, automation, and investments**  
 📈 **Helping businesses and individuals make data-driven decisions**  
 
-Prospering is not just about financial growth; it’s about transforming lives with knowledge, strategy, and purpose.**
+Prospering is not just about financial growth; it’s about transforming lives with knowledge, strategy, and purpose.
 
 
   ### Socials
