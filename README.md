@@ -2,8 +2,8 @@
 
 ### **Erick Fabiano Ramos Correia** 🚀  
 
-👨‍💻 **Data Scientist | Business Intelligence | Financial Management | Automation | AI**  
-📊 **Data & Financial Analyst @Aveiro Negócios**  
+👨‍💻 **Data Analyst & Business Intelligence | Technology for Strategic Decisions | Python | SQL | Power BI | AI | Figma**  
+📊 **Data & Financial Analyst**  
 🎓 **Data Science Student**  
 💰 **Managing R$ 140M in assets**  
 🤖 **Passionate about AI, automation, and investments**  
