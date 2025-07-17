@@ -4,8 +4,7 @@
 
 👨‍💻 **Data Analyst & Business Intelligence | Technology for Strategic Decisions | Python | SQL | Power BI | AI | Figma**  
 📊 **Data & Financial Analyst**  
-🎓 **Data Science Student**  
-💰 **Managing R$ 140M in assets**  
+🎓 **Data Science**    
 🤖 **Passionate about AI, automation, and investments**  
 📈 **Helping businesses and individuals make data-driven decisions**  
 
